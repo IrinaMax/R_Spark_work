@@ -1,2 +1,2 @@
-# R_Spark_work
-working with SparkR
+Some statistical learning techniques
+
